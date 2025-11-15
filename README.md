@@ -1,1 +1,2 @@
-This is the website for my blog
+
+This will be a website for my blog, once I figure out what I will use as my way to handle page creation. I might want to make a custom tool for fun...
